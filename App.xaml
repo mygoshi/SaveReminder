@@ -1,0 +1,9 @@
+﻿<Application x:Class="SaveReminderWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SaveReminderWPF"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Image x:Key="Icon" Source="AppIcon.ico"/>
+    </Application.Resources>
+</Application>
